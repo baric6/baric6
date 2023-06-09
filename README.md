@@ -20,5 +20,5 @@
   
 </a>
 
-<img height="1180em" src="https://github-readme-stats.vercel.app//api/top-langs/?username=anuraghazra&langs_count=25" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baric6&langs_count=25" />
 
